@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HridyanshVashishth
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning HTML,CSS and JavaScript
+- 👀 I’m interested in Object Oriented Programming
+- 🌱 I’m currently learning Java
 - 📫 You can contact me on my mail: Hridyanshvath0009@gmail.com
 - 😄 Pronouns: he/him
 
