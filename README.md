@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HridyanshVashishth
-- 👀 I’m interested in Object Oriented Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Data Structures and Algorithms
+- 🌱 I’m currently learning Python
 - 📫 You can contact me on my mail: Hridyanshvath0009@gmail.com
 - 😄 Pronouns: he/him
 
