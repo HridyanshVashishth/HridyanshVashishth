@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @HridyanshVashishth
-- 👀 I’m interested in Data Structures and Algorithms
-- 🌱 I’m currently learning Python
-- 📫 You can contact me on my mail: Hridyanshvath0009@gmail.com
-- 😄 Pronouns: he/him
-
-<!---
-HridyanshVashishth/HridyanshVashishth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>Hello 👋</h1>
+<p>I am Hridyansh Vashishtha, a student of 8th standard currently studying in <b>Shri Gulab Rai Montessori Senior Secondary School, Nainital Road, Bareilly</b></p>
+<h2>I am learning Web Development AND Python right now</h2>
